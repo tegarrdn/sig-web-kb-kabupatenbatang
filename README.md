@@ -1,6 +1,6 @@
 # sig-web-kb-kabupatenbatang
 
-Halo! 
+Ini adalah projek website SIG yang bertemakan kesehatan yaitu [KB (Keluarga Berencana)](https://id.wikipedia.org/wiki/Keluarga_Berencana)
 
 ## Apa itu SIG?
 
