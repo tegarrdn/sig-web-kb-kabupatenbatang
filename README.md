@@ -1,5 +1,4 @@
-*Halo! Selamat datang* 😄
----
+## Halo! Selamat datang 😄
 
 Sebelumnya perkenalkan nama saya **Tegar Ramadhani** mahasiswa [Universitas PGRI Semarang](https://upgris.ac.id/) prodi Informatika, Fakultas Teknik dan Informatika dengan NPM 20670038 dan Ini adalah projek website [SIG](https://id.wikipedia.org/wiki/Sistem_informasi_geografis) yang bertemakan kesehatan yaitu [KB (Keluarga Berencana)](https://id.wikipedia.org/wiki/Keluarga_Berencana) dengan mengambil lokasi [Kabupaten Batang](https://id.wikipedia.org/wiki/Kabupaten_Batang).
 
