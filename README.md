@@ -1,6 +1,8 @@
 # sig-web-kb-kabupatenbatang
 
-Halo! Selamat datang, perkenalkan nama saya Tegar Ramadhani mahasiswa Universitas PGRI Semarang dengan NPM 20670038 dan Ini adalah projek website SIG yang bertemakan kesehatan yaitu [KB (Keluarga Berencana)](https://id.wikipedia.org/wiki/Keluarga_Berencana) Ini adalah projek tidak pure yang saya buat sendiri melainkan hanya redesign/reedit dari template yang desidiakan oleh [html.design](https://html.design/) untuk memenuhi tugas mata kuliah Sistem Informasi Geografis 5A.
+Halo! Selamat datang,
+
+Sebelumnya perkenalkan nama saya Tegar Ramadhani mahasiswa Universitas PGRI Semarang dengan NPM 20670038 dan Ini adalah projek website SIG yang bertemakan kesehatan yaitu [KB (Keluarga Berencana)](https://id.wikipedia.org/wiki/Keluarga_Berencana) Ini adalah projek tidak pure yang saya buat sendiri melainkan hanya redesign/reedit dari template yang desidiakan oleh [html.design](https://html.design/) untuk memenuhi tugas mata kuliah Sistem Informasi Geografis 5A.
 
 ## Apa itu SIG?
 
