@@ -1,5 +1,3 @@
-# sig-web-kb-kabupatenbatang
-
 *Halo! Selamat datang* 😄
 ---
 
